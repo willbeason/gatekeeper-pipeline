@@ -4,5 +4,5 @@ metadata:
   name: not-at-all-secret
   namespace: default
 data:
-  public_key: "no secrets here"
+  private_key: "sensitive data goes here"
 
